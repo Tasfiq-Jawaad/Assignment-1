@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .top-banner {
@@ -95,7 +96,7 @@ body {
 
 #tk-500 {
     color: #707070;
-    font-family: Arial, Helvetica, sans-serif;
+
     width: 15%;
     text-align: center;
     font-size: 30px;
@@ -161,7 +162,7 @@ body {
 .Our-plan p {
     font-size: 20px;
     color: #707070;
-    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 #Food {
@@ -195,4 +196,26 @@ body {
     padding-top: 5%;
     padding-bottom: 5%;
     border-radius: 10px;
+}
+
+footer {
+    height: 150px;
+    background-color: #0B0D17;
+    text-align: center;
+    margin-top: 35px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+
+}
+
+footer h1 {
+    font-family: 'The Nautigal', cursive;
+    color: #FF5959;
+    font-size: 50px;
+}
+
+footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 5px;
 }
