@@ -35,7 +35,7 @@ body {
 
 #Donate-now-button {
     text-decoration: none;
-    background-color: tomato;
+    background-color: #FF5959;
     color: white;
     padding: 15px 20px;
     border-radius: 5px;
@@ -60,6 +60,7 @@ body {
 .Donate-Today {
     width: 60%;
     margin-left: 20%;
+    text-align: center;
 }
 
 .Amount {
@@ -130,8 +131,17 @@ body {
 
 }
 
+#form {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
 #amount-input {
     border: none;
-
+    font-size: 20px;
+    color: #B3B3B3;
+    width: 22%;
 
 }
