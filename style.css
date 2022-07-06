@@ -1,0 +1,137 @@
+body {
+    margin: 0px;
+}
+
+.top-banner {
+    background-image: url(images/donation2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 13.5%;
+}
+
+.top-banner-text {
+    text-align: center;
+    color: white;
+
+}
+
+
+.top-banner-text h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    margin-top: 0PX;
+    margin-bottom: 0px;
+}
+
+.top-banner-text p {
+    margin-top: 15px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+
+#small {
+    font-size: 15px;
+}
+
+#Donate-now-button {
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+.Donate-Today-header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+
+#Donate-Today-text {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.Donate-Today {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.Amount {
+    display: flex;
+}
+
+#tk-100 {
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15%;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 3.5%;
+    margin-right: 2%;
+    padding: 0% 2%;
+    background-color: #FAFAFA;
+    border-radius: 5%;
+}
+
+#tk-200 {
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15%;
+    text-align: center;
+    font-size: 40px;
+    margin-right: 2%;
+    padding: 0% 2%;
+    background-color: #FFEEEE;
+    border: 3px solid #FF5959;
+    border-radius: 5%;
+}
+
+#tk-500 {
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15%;
+    text-align: center;
+    font-size: 40px;
+    margin-right: 2%;
+    padding: 0% 2%;
+    background-color: #FAFAFA;
+    border-radius: 5%;
+}
+
+#tk-1000 {
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15%;
+    text-align: center;
+    font-size: 40px;
+    margin-right: 2%;
+    padding: 0% 2%;
+    background-color: #FAFAFA;
+    border-radius: 5%;
+}
+
+#tk-5000 {
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15%;
+    text-align: center;
+    font-size: 40px;
+    padding: 0% 2%;
+    background-color: #FAFAFA;
+    border-radius: 5%;
+    margin-right: 3.5%;
+
+
+}
+
+#amount-input {
+    border: none;
+
+
+}
