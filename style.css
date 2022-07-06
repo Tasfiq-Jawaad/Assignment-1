@@ -42,6 +42,12 @@ body {
     font-size: 30px;
 }
 
+.Donate-Today {
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+}
+
 .Donate-Today-header {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -57,12 +63,6 @@ body {
     text-align: center;
 }
 
-.Donate-Today {
-    width: 60%;
-    margin-left: 20%;
-    text-align: center;
-}
-
 .Amount {
     display: flex;
 }
@@ -72,7 +72,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     width: 15%;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     margin-left: 3.5%;
     margin-right: 2%;
     padding: 0% 2%;
@@ -81,11 +81,11 @@ body {
 }
 
 #tk-200 {
-    color: #707070;
+    color: #FF5959;
     font-family: Arial, Helvetica, sans-serif;
     width: 15%;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     margin-right: 2%;
     padding: 0% 2%;
     background-color: #FFEEEE;
@@ -98,7 +98,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     width: 15%;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     margin-right: 2%;
     padding: 0% 2%;
     background-color: #FAFAFA;
@@ -110,7 +110,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     width: 15%;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     margin-right: 2%;
     padding: 0% 2%;
     background-color: #FAFAFA;
@@ -122,7 +122,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     width: 15%;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     padding: 0% 2%;
     background-color: #FAFAFA;
     border-radius: 5%;
@@ -144,4 +144,55 @@ body {
     color: #B3B3B3;
     width: 22%;
 
+}
+
+.Our-plan {
+    display: flex;
+    width: 78%;
+    margin-left: 11%;
+
+}
+
+.Our-plan h1 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Our-plan p {
+    font-size: 20px;
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Food-for-a-family {
+    width: 32%;
+    margin-right: 2%;
+    background-color: #edf5f6;
+    padding-left: 2%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 10px;
+
+}
+
+#Shelter-for-a-family {
+    width: 32%;
+    margin-right: 2%;
+    background-color: #ffeeee;
+    padding-left: 2%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 10px;
+}
+
+#Education-for-a-child {
+    width: 32%;
+    background-color: #fff4d6;
+    padding-left: 2%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 10px;
 }
